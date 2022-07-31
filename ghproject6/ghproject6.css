@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .w-200vw {
+    width: 100vw;
+  }
+  .ofc {
+    object-fit: cover;
+  }
+  .w-50 {
+    width: 50px;
+  }
+  .h-50 {
+    height: 50px;
+  }
+  .br-50p {
+    border-radius: 50%;
+  }
+  .cl-gold {
+    color: gold;
+  }
+  .fs-1-5r {
+    font-size: 1.5rem;
+  }
+  .pt-10 {
+    padding-top: 10px;
+  }
+  .bc-azure {
+    background-color: azure;
+  }
+  .p-100 {
+    padding: 100px;
+  }
+  .dp-f {
+    display: flex;
+  }
+  .pb-60 {
+    padding-bottom: 60px;
+  }
+  .w-90vw {
+    width: 90vw;
+  }
+  .gap-50 {
+    gap: 50px;
+  }
+  .w-40vw {
+    width: 40vw;
+  }
+  .w-400 {
+    width: 400px;
+  }
+  .cl-purple {
+    color: purple;
+  }
+  .mb-20 {
+    margin-bottom: 20px;
+  }
+  .fs-3-4r {
+    font-size: 3.4rem;
+  }
+  .w-380 {
+    width: 380px;
+  }
+  .opa-0-6 {
+    opacity: 0.6;
+  }
+  .w-60vw {
+    width: 60vw;
+  }
+  .bc-lightpink {
+    background-color: lightpink;
+  }
+  .gap-20 {
+    gap: 20px;
+  }
+  .ai-c {
+    align-items: center;
+  }
+  .br-5 {
+    border-radius: 5px;
+  }
+  .mt-20 {
+    margin-top: 20px;
+  }
+  .p-5 {
+    padding: 5px;
+  }
+  .mt-50 {
+    margin-top: 50px;
+  }
+  .bc-purple {
+    background-color: #660066;
+  }
+  .fw-700 {
+    font-weight: 700;
+  }
+  .pos-r {
+    position: relative;
+  }
+  .left-40 {
+    left: 40px;
+  }
+  .left-80 {
+    left: 80px;
+  }
+  .pl-20 {
+    padding-left: 50px;
+  }
+  .p-50 {
+    padding: 50px;
+  }
+  .w-400 {
+    width: 400px;
+  }
+  .pr-30 {
+    padding-right: 30px;
+  }
+  .pr-40 {
+    padding-right: 40px;
+  }
+  .pr-35 {
+    padding-right: 35px;
+  }
+  .cl-white {
+    color: white;
+  }
+  .top-40 {
+    top: 40px;
+  }
+  .top-80 {
+    top: 80px;
+  }
+  .pl-140 {
+    padding-left: 140px;
+  }
+  .cl-purple2 {
+    color: #a000a0;
+  }
+  .br-15 {
+    border-radius: 15px;
+  }
+  
+  @media only screen and (max-width: 1400px) {
+    body {
+      overflow-x: hidden;
+    }
+    .media-clears {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 200vh;
+    }
+    .media-clears > * {
+      margin: 0 auto;
+      justify-content: center;
+      align-items: center;
+    }
+    .media-dp-f {
+      flex-direction: column;
+      width: 80vw;
+    }
+    .media-dp-f > * {
+      width: 80vw;
+      text-align: center;
+    }
+    .media-clear-leftpos {
+      left: 0;
+    }
+    .media-clear-paddingleft {
+      padding-left: 0;
+    }
+    .media-fixflex {
+      flex-direction: column;
+    }
+    .media-textalign-l {
+      text-align: left;
+    }
+    .media-martop {
+      margin-top: 60px;
+    }
+    .media-forsure-w {
+      width: 80vw;
+    }
+  }
+  
