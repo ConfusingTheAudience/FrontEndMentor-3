@@ -1,2 +1,2 @@
 # FrontEndMentor-3
-Challenges from FrontEndMentor 7 HTML + CSS
+Challenges from FrontEndMentor 7 HTML + CSS (Atomic CSS)
